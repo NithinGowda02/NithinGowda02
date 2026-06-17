@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **nithinkp368@gmail.com** For Collaboration/Project or Anyt
 - 👯 **I'm looking to collaborate on:** Full-stack or AI-integrated web applications built with Python and Flask
 - 🤔 **I'm looking for help with:** Optimizing multi-provider AI fallback architecture for production-grade reliability
 - 💬 **Ask me about:** Hire Ready, my AI-powered platform that generates ATS-optimized resumes, cover letters, and job match scores
-- 📫 **How to reach me:** nithinkp368@gmail.com or [add your LinkedIn URL]
+- 📫 **How to reach me:** nithinkp368@gmail.com or https://www.linkedin.com/in/nithinkp/
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I took an unconventional Diploma → B.E. (lateral entry) path into engineering
 
